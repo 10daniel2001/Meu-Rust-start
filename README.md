@@ -1,7 +1,3 @@
-echo "# Meu-Rust-start" >> README.md
-# EN: Creates a README.md file and writes the title “Meu-Rust-start” inside it.
-# PT: Cria um arquivo README.md e escreve o título “Meu-Rust-start” dentro dele.
-
 git init
 # EN: Initializes a new Git repository in the current folder.
 # PT: Inicializa um novo repositório Git na pasta atual.
